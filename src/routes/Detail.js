@@ -27,7 +27,7 @@ function Detail(){
                     <img src={movie.medium_cover_image}/>
                     <p>{movie.description_full}</p>
                     <button type="button">
-                        <Link to={`/`}>홈으로</Link>
+                        <Link to={`/`}>홈으로22</Link>
                     </button>
                </div>
             )}
