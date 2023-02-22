@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/chlaudek7/movie-react-app/static/js/main.43b20cdf.js",
-    "index.html": "/chlaudek7/movie-react-app/index.html",
-    "main.43b20cdf.js.map": "/chlaudek7/movie-react-app/static/js/main.43b20cdf.js.map"
+    "main.js": "/movie-react-app/static/js/main.43b20cdf.js",
+    "index.html": "/movie-react-app/index.html",
+    "main.43b20cdf.js.map": "/movie-react-app/static/js/main.43b20cdf.js.map"
   },
   "entrypoints": [
     "static/js/main.43b20cdf.js"
